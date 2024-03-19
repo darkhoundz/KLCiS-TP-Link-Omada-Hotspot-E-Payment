@@ -32,5 +32,6 @@ e9816.cj.akamaiedge.net
 104.67.185.229
 checkout-ui-gateway.xendit.co
 assets.xendit.co
+ewallet-service-live.xendit.com
 ab448ad13c5be11eab89b06680ff93a5-46768361.ap-southeast-1.elb.amazonaws.com
 
